@@ -2,6 +2,7 @@
 The most retarded C git ever!
 #Updates
 07.02.17 - created GitHub, add some programms from my university. 
+16.02.17 - reinitialized repo.
 #HELP FOR NOOBIES!!! GITHUB HINT
         git add "file"/"folder"/* 	
 1. mark file/folder that send to repo
