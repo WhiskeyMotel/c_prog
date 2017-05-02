@@ -10,25 +10,23 @@ The most retarded C git ever!
 25.04.17 - updated ReadMe for some sweetness
 
 # HELP FOR NOOBIES!!! GITHUB HINT
+	
+1. mark file/folder that send to repo
 
         git add "file"/"folder"/* 
-        
-mark file/folder that send to repo
+
+2. commit the file
 
         git commit -m "text" 
-        
-commit the file
+
+3. upload to repo
 
         git push
         
-upload to repo
+4. commit deleted file
 
         git commit -am "text" 
-        
-commit deleted file
+
+5. useful to check which files you marked
 
         git status 
-        
-useful to check which files you marked
-
-Have some troubles with uploading? Use repo_init.exe from my c_prog repo (64 bit only, in Russian)
